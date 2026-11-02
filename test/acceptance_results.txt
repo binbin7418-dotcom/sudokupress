@@ -1,0 +1,11 @@
+[PASS] generation is deterministic for a fixed seed 
+[PASS] book PDF written 18022 bytes
+[PASS] every puzzle verified unique-from-givens 
+[PASS] givens in sane bands (Easy<=44, Medium<=38, Hard<=34) [('Easy', 40), ('Medium', 34), ('Hard', 27), ('Easy', 40), ('Medium', 33), ('Hard', 29)]
+[PASS] Hard puzzles have fewer givens than Easy ones 
+[PASS] page count = 2 + 2*6 got 14
+[PASS] PDF reopens with 14 pages 
+[PASS] page size 612x792 
+(total 0.8s)
+
+8/8 PASS
